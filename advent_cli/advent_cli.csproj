@@ -9,4 +9,8 @@
     <PackageReference Include="System.CommandLine" Version="2.0.0-beta1.20574.7" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\advent_solutions\advent_solutions.csproj" />
+  </ItemGroup>
+
 </Project>
